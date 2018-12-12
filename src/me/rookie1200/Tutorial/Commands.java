@@ -29,7 +29,6 @@ public class Commands {
         }
     }
 
-
 //    @Command(aliases = "cunt", desc = "Get cunt")
 //    public void onCunt(CommandContext args, CommandSender sender) {
 //        if (sender instanceof Player) {
