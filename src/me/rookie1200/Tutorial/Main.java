@@ -36,6 +36,8 @@ public class Main extends JavaPlugin implements Listener {
         registerCommandClass(Commands.class);
         registerCommands();
         log("Enabled successfully!");
+        log("Mitchell is a Cunt");
+        log(ChatColor.BLUE + "Mitchell is a Cunt");
     }
 
     private boolean setupEconomy() {
